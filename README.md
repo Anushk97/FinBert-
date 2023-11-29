@@ -1,6 +1,7 @@
 # NLP-on-Fedspeak-data
 
 Project Overview
+
 This repository contains a dataset comprising 200 Federal Reserve (Fed) statements and meeting minutes, meticulously annotated and classified into five distinct categories by expert analysts. These categories include:
 
 Mostly Dovish
@@ -21,4 +22,5 @@ Prompt: "You are an expert in economic modeling and policy analysis, holding a m
 Additionally, the FinBert algorithm has been utilized for classification alongside GPT-3, showcasing the versatility of approaches within the project.
 
 Instructions for Replication
+
 To replicate the experiment and explore the results, follow the steps outlined in the documentation. The repository provides a comprehensive understanding of the dataset, training process, and evaluation metrics. Feel free to contribute, experiment, or adapt the code for your specific use case. We welcome collaboration and feedback to enhance the robustness of the model.
